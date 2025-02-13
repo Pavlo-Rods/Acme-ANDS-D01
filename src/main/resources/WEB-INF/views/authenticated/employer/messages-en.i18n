@@ -1,0 +1,19 @@
+# messages-en.i18n
+#
+# Copyright (C) 2012-2025 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+authenticated.employer.form.title = Employer data
+
+authenticated.employer.form.label.area = Area: 
+authenticated.employer.form.label.sector = Sector:
+authenticated.employer.form.label.credit-card = Credit card:
+
+authenticated.employer.form.button.create = Register
+authenticated.employer.form.button.update = Update
+authenticated.employer.form.button.contractors = Contractors

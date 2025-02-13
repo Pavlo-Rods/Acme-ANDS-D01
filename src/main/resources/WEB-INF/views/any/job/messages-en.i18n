@@ -1,0 +1,28 @@
+# messages-en.i18n
+#
+# Copyright (C) 2012-2025 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+any.job.form.title = Job form
+any.job.list.title = Listing of jobs
+
+any.job.form.label.ticker = Ticker:
+any.job.form.label.contractor = Contractor:
+any.job.form.label.title = Title:
+any.job.form.label.deadline = Deadline:
+any.job.form.label.salary = Salary:
+any.job.form.label.score = Score:
+any.job.form.label.moreInfo = More info: (Optional)
+any.job.form.label.description = Description:
+
+any.job.form.button.duties = Duties
+
+any.job.list.label.ticker = Ticker 
+any.job.list.label.deadline = Deadline
+any.job.list.label.title = Title
+

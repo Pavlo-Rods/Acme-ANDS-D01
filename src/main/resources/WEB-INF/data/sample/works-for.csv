@@ -1,0 +1,7 @@
+key,roles,key:contractor,key:proxy
+works-for-01.01,Employer,company-01,employer-01
+works-for-01.02,Talent hunter,company-02,employer-01
+works-for-01.03,Trainer,company-03,employer-01
+works-for-02.01,"Spokesman, Recruiter",company-01,employer-02
+works-for-02.02,Employer,company-05,employer-02
+works-for-03.01,Talent hunter,company-06,employer-02

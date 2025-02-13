@@ -1,0 +1,69 @@
+# CHANGELOG.txt
+#
+# Copyright (C) 2012-2025 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+** Year 2025 ******************************************************************
+
+- 25.1.0 Upgraded to the new version of the Acme framework. The implementation of
+the main menu has been reworked to fix many naming inconsistencies.  "Employers" and 
+"Workers" are now in a squad called "Customer".  Some listings now use the REST 
+controller capabilities in the new version of the framework.  
+
+** Year 2024 ******************************************************************
+
+- 24.1.0 Upgraded to the new version of the Acme framework.  Entities now have 
+proper indices to speed queries up. Minor bug fixes.
+
+- 24.4.0 Upgraded to the new version of the Acme framework.  Removed testing 
+scripts that use the old testing infrastructure.  Testing data and traces are now   
+quite complete and well-organised regarding features "/employer/job" and  
+"/employer/duty". Payloads were added to as many listings as possible.  The money
+exchange API was renewed, but bear in mind that it's a free service and the number
+of requests is very limited. Peppered minor bug fixes.
+
+24.5.0	Upgraded to the new version of the Acme framework.
+
+** Year 2023 ******************************************************************
+
+- 23.1.0 Upgraded to the new version of the Acme framework.  Added features to 
+deal with companies. Minor bug fixes.
+
+- 23.2.0 Added constraints to prevent the user from entering too long data. Not 
+distributed to the students. Minor bug fixes.
+ 
+- 23.3.0 No significant changes. Upgraded to the new version of the Acme Framework.
+
+- 23.3.1 Minor bugs fixed. Upgraded to the new version of the Acme Framework, which 
+helped solve a serious problem when updating objects with errors.
+
+- 23.4.0 Upgraded to the new version of the Acme Framework.
+
+- 23.4.1 Upgraded to the new version of the Acme Framework.
+
+- 23.5.0 Upgraded to the new version of the Acme Framework.
+
+** Year 2022 ******************************************************************
+
+- 22.0 This is a brand new version of Acme Jobs. Previous versions are now abandoned.
+
+- 22.1 Minor bug fixes and re-organisation of some files.
+
+- 22.2 Minor bug fixes.
+
+- 22.3 Minor bug fixes and improvements. Some features where promoted to the new "Any" role.
+
+- 22.4 The test suite's been enhanced. Minor bugs have been mended.
+  
+- 22.5 The test suite's been enhanced. Minor bugs have been mended.
+
+- 22.6 Fixed minor bugs regarding creating and updating jobs.
+
+- 22.7 No significant changes. Upgraded to the new version of the Acme Framework.
+
+- 22.8 No significant changes. Upgraded to the new version of the Acme Framework.
