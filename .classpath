@@ -67,4 +67,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
+	<classpathentry excluding="**/fragments/**" kind="src" path="acme-framework"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Acme-Framework-22.1.0"/>
+	<classpathentry kind="output" path="target/classes"/>
 </classpath>
